@@ -1,6 +1,5 @@
 package org.sonar.plugins.stash.client;
 
-import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.util.Optional;
 import org.asynchttpclient.AsyncHttpClient;
